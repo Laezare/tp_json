@@ -1,0 +1,23 @@
+{
+    "messages" : [
+        {        
+        "objet": "1" ,
+        "destinataire": "dest",
+        "expediteur": "src",
+        "date": "2020-11-05",
+        "contenu": "message 1 content",
+        "categorie": "common",
+        "importance": "normal"
+        },
+        {        
+            "objet": "2" ,
+            "destinataire": "dest",
+            "expediteur": "src",
+            "date": "2020-11-05",
+            "contenu": "message 2 content",
+            "categorie": "common",
+            "importance": "normal"
+            }
+    ]
+}
+

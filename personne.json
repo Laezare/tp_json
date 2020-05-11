@@ -1,0 +1,34 @@
+{
+  "personnes" : [
+    {
+      "nom": "Durant",
+      "prénom" : "Alain",
+      "âge" : 3,
+      "enfants": [
+        {
+          "nom": "Durant",
+          "prénom" : "Noé",
+          "âge" : 6
+        }
+      ]
+    },
+
+    {
+      "nom": "Dubois",
+      "prénom" : "Pierre",
+      "âge" : 42,
+      "enfants": [
+        {
+          "nom": "Dubois",
+          "prénom" : "Marie",
+          "âge" : 16
+        },
+        {
+          "nom": "Dubois",
+          "prénom" : "Louis",
+          "âge" : 14
+        }
+      ]
+    }
+  ]
+}
